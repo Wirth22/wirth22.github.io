@@ -16,13 +16,13 @@ If you’re interested in my research or would like to connect, feel free to rea
 
 ## Ongoing Field Projects
 
-If you build it, will they come? Incentivizing the Adoption of Digital Financial Services in Niger
+If you build it, will they come? Incentivizing the Adoption of Digital Financial Services in Niger<br>
 With [Jenny C. Aker](https://sites.tufts.edu/jennyaker/), [Josué Awonon](https://awonon.github.io/), [Michael Grimm](https://sites.google.com/view/mgrimm/start), and [Christina Petrik](https://www.wiwi.uni-passau.de/en/development-economics/team/research-associates/christina-petrik)
 
-Unlocking Agricultural Potential through Bundled Services? Experimental Evidence from a Digital Platform in Ghana 
+Unlocking Agricultural Potential through Bundled Services? Experimental Evidence from a Digital Platform in Ghana<br>
 With [Edward Asiedu](https://ugbs.ug.edu.gh/faculty/edward-asiedu), [Michael Grimm](https://sites.google.com/view/mgrimm/start), [Jann Lay](https://www.giga-hamburg.de/en/the-giga/team/lay-jann), and [Christina Petrik](https://www.wiwi.uni-passau.de/en/development-economics/team/research-associates/christina-petrik)
 
-Parched Prospects: Assessing Farmers’ Climate Adaptation Strategies in the Wake of a Drought in Northern Ghana
+Parched Prospects: Assessing Farmers’ Climate Adaptation Strategies in the Wake of a Drought in Northern Ghana<br>
 With [Christina Petrik](https://www.wiwi.uni-passau.de/en/development-economics/team/research-associates/christina-petrik), [Edward Asiedu](https://ugbs.ug.edu.gh/faculty/edward-asiedu), and [Jann Lay](https://www.giga-hamburg.de/en/the-giga/team/lay-jann)
 
 
