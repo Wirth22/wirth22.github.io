@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at the [Chair of Development Economics](https://www.wiwi.uni-passau.de/en/development-economics) [(Prof. Michael Grimm)](https://sites.google.com/view/mgrimm/start) and part of the [DFG Research Training Group 2720: "Digital Platform Ecosystems (DPE)"](https://www.dpe.uni-passau.de/en/). My research explores the impact of digital technologies on development outcomes in sub-Saharan Africa, particularly in the areas of agriculture, financial inclusion, and domestic revenue mobilization. 
+I am a PhD student in Economics at the [Chair of Development Economics](https://www.wiwi.uni-passau.de/en/development-economics) [(Prof. Michael Grimm)](https://sites.google.com/view/mgrimm/start) and part of the [DFG Research Training Group 2720: "Digital Platform Ecosystems (DPE)"](https://www.dpe.uni-passau.de/en/). My research explores the impact of digital technologies on development outcomes in sub-Saharan Africa, particularly in the areas of agriculture, financial inclusion, and domestic revenue mobilization, and extending to issues of climate change adaptation among smallholder farmers.
 
 During Fall 2024, I was a visiting PhD student at The Fletcher School at Tufts University, invited by [Prof. Jenny C. Aker](https://sites.tufts.edu/jennyaker/).
 I hold an MSc in Economics from the Ludwig Maximilian University of Munich (LMU) and have worked as a research assistant at the [ifo Institute – Leibniz Institute for Economic Research](https://www.ifo.de/en/ifo-homepage).
