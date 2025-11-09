@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Olivia-photo.png"
+  avatar           : "Olivia_photo.jpg"
   name             : "Olivia Wirth"
   pronouns         : # example: "she/her"  
   bio              : "Development Economist"
