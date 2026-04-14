@@ -18,7 +18,7 @@ I hold an MSc in Economics from the Ludwig Maximilian University of Munich (LMU)
 If you build it, will they come? Incentivizing the Adoption of Digital Financial Services in Niger  
 With [Jenny C. Aker](https://sites.tufts.edu/jennyaker/), [Josué Awonon](https://awonon.github.io/), [Michael Grimm](https://sites.google.com/view/mgrimm/start), and [Christina Petrik](https://www.wiwi.uni-passau.de/en/development-economics/team/research-associates/christina-petrik)
 
-Unlocking Agricultural Potential through Bundled Services? Experimental Evidence from a Digital Platform in Ghana  
+Adopting Technology under Climate Stress: Evidence from Randomized Soil Tests and Fertilizer Recommendations 
 With [Edward Asiedu](https://ugbs.ug.edu.gh/faculty/edward-asiedu), [Michael Grimm](https://sites.google.com/view/mgrimm/start), [Jann Lay](https://www.giga-hamburg.de/en/the-giga/team/lay-jann), and [Christina Petrik](https://www.wiwi.uni-passau.de/en/development-economics/team/research-associates/christina-petrik)
 
 Parched Prospects: Assessing Farmers’ Climate Adaptation Strategies in the Wake of a Drought in Northern Ghana  
